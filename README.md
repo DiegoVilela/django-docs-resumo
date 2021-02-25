@@ -1,2 +1,3 @@
-# django-docs-resumo
-Resumo dos tópicos da documentação do web framework Django
+# Django: resumo dos tópicos da documentação 
+
+1. [Class-based views](class-based-views)
