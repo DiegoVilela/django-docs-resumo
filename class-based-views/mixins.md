@@ -92,4 +92,4 @@ class FabricanteDetail(SingleObjectMixin, ListView):
         return self.object.produto_set.all()
 ```
 
-Também é possível implementar o [mesmo comportamento apenas com `ListView`](class-based-views/generic_display.md#method-resolution-order-de-listview).
+Também é possível implementar o [mesmo comportamento apenas com `ListView`](./generic_display.md#method-resolution-order-de-listview).
